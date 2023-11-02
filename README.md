@@ -6,7 +6,7 @@
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=erlanio&show_icons=true&theme=dracula&count_private=true)
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=erlanio&layout=compact&theme=nightowl)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
